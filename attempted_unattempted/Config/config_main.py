@@ -1,0 +1,1 @@
+main_module_assessment_flashcard_score_location = "D:/company/NEMA AI/attempted_unattempted/main_module_en.json"
